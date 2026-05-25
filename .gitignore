@@ -1,0 +1,55 @@
+# Dependencies
+node_modules/
+.flutter_plugins
+.packages
+.dart_tool/
+.flutter/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build
+build/
+dist/
+.next/
+out/
+.firebase/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.iml
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React
+.cache/
+.parcel-cache
+
+# Flutter
+*.class
+*.jar
+*.so
+*.dylib
+*.deb
+*.dsc
+*.jks
+*.keystore
+
+# Misc
+.flutter-plugins-dependencies
